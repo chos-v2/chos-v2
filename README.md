@@ -24,25 +24,6 @@ Aqui estão algumas das tecnologias e linguagens com as quais eu trabalho:
 | **Versionamento** | <i class="devicon-git-plain colored" title="Git"></i> Git &nbsp; &nbsp; <i class="devicon-github-plain" title="GitHub"></i> GitHub |
 
 ---
-## 📈 Estatísticas do GitHub
-
-> *Se as estatísticas demorarem a carregar, pode ser devido ao cache do serviço. Atualize a página.*
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=chos-v2&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=0" 
-    alt="Estatísticas do chos-v2" 
-    height="150"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chos-v2&layout=compact&theme=onedark&locale=pt-br&cache_seconds=0" 
-    alt="Top Linguagens do chos-v2"
-    height="150"
-  />
-</p>
-
----
 
 ## 🔗 Conecte-se Comigo
 
