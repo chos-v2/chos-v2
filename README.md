@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em **Backend**. Atualmente estou trabalhando em projetos pessoais e focando em novos aprendizados.
+Sou um estudante de ADS pela Estácio, pretendo ser um desenvolvedor focado em **Backend**. Atualmente estou trabalhando em projetos pessoais e focando em novos aprendizados.
 
 * 🌱 Buscando constantemente novos desafios e aprimoramento.
 * 💡 Curioso sobre **Banco de dados**.
