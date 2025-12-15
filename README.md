@@ -114,8 +114,6 @@ Aqui estão algumas das tecnologias e linguagens com as quais eu trabalho:
 
 </p>
 
-<br clear="both"/>
-
 ---
 
 ## 🔗 Conecte-se Comigo
