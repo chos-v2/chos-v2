@@ -7,7 +7,7 @@
 Sou um estudante de ADS, futuro engenheiro de software, pretendo ser um desenvolvedor focado em **Backend**. Atualmente estou trabalhando em projetos pessoais e focando em novos aprendizados.
 
 * 🌱 Buscando constantemente novos desafios e aprimoramento.
-* 💡 Curioso sobre **Banco de dados**.
+* 💡 Curioso sobre ✨**TUDO**✨.
 * 📫 Entre em contato: charleshenrique043@gmail.com
 
 ---
