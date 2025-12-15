@@ -11,7 +11,9 @@ Sou um estudante de ADS, futuro engenheiro de software, pretendo ser um desenvol
 * 📫 Entre em contato: charleshenrique043@gmail.com
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
@@ -78,8 +80,9 @@ Sou um estudante de ADS, futuro engenheiro de software, pretendo ser um desenvol
     src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" 
 />
 
-
 <br/>
+
+---
 
 ## 🛠️ Minhas Habilidades
 
