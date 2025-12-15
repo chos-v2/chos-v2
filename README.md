@@ -79,6 +79,14 @@ Sou um estudante de ADS, futuro engenheiro de software, pretendo ser um desenvol
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" 
 />
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=25010&format=png&color=000000" 
+/>
 
 <br/>
 
