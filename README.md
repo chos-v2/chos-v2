@@ -33,7 +33,7 @@ Aqui estão algumas das tecnologias e linguagens com as quais eu trabalho:
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    https:"//github-readme-stats.vercel.app/api?username=chos-v2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=chos-v2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
 <img 
