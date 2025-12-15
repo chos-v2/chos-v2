@@ -131,5 +131,5 @@ Aqui estão algumas das tecnologias e linguagens com as quais eu trabalho:
 
 ## 🔗 Conecte-se Comigo
 
-| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](www.linkedin.com/in/charleshenriquedev) | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/chos_v2/) |
+| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/charleshenriquedev) | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/chos_v2/) |
 | :---: | :---: |
