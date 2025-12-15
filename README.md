@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um estudante de ADS pela Estácio, pretendo ser um desenvolvedor focado em **Backend**. Atualmente estou trabalhando em projetos pessoais e focando em novos aprendizados.
+Sou um estudante de ADS, futuro engenheiro de software, pretendo ser um desenvolvedor focado em **Backend**. Atualmente estou trabalhando em projetos pessoais e focando em novos aprendizados.
 
 * 🌱 Buscando constantemente novos desafios e aprimoramento.
 * 💡 Curioso sobre **Banco de dados**.
@@ -24,6 +24,26 @@ Aqui estão algumas das tecnologias e linguagens com as quais eu trabalho:
 | **Versionamento** | <i class="devicon-git-plain colored" title="Git"></i> Git &nbsp; &nbsp; <i class="devicon-github-plain" title="GitHub"></i> GitHub |
 
 ---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    https:"//github-readme-stats.vercel.app/api?username=chos-v2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chos-v2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ## 🔗 Conecte-se Comigo
 
